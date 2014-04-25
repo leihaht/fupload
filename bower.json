@@ -1,0 +1,21 @@
+{
+  "name": "fupload",
+  "version": "0.0.1",
+  "devDependencies": {
+    "qunit": "~1.12.0",
+    "jquery": "latest",
+    "require-cs": "~0.4.4",
+    "bootstrap": "~3.1.1"
+  },
+  "authors": [
+    "leihaht <hyotakdesign@gmail.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
